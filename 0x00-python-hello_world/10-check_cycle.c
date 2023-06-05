@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include "lists.h"
 
-Fixing some code errors
 /**
  * check_cycle - checks if a singly linked list has a cycle in it
  * @list: list to check
